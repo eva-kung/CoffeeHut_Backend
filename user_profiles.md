@@ -1,3 +1,7 @@
 User Profiles:
 
-1. Loyal
+1. REGULAR
+2. PREMIUM 
+3. ELITE
+4. LOYAL
+
